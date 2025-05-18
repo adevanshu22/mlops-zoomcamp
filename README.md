@@ -1,2 +1,2 @@
-# ml-zoomcamp
+# mlops-zoomcamp
 This is a readme file
